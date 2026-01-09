@@ -7,6 +7,7 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -40,4 +41,12 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0063-unique-paths-ii) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
