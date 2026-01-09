@@ -49,4 +49,8 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
