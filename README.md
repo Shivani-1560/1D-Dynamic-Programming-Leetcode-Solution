@@ -8,6 +8,7 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 | [0070-climbing-stairs](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +26,7 @@ In this repository, I have upload 1D DP answers of Leetcode with their question
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivani-1560/1D-Dynamic-Programming-Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
